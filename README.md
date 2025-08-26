@@ -3,6 +3,8 @@
 ## Project Name
 Instagram User Analytics
 
+![Image](https://github.com/kumarChaitanya1208/Data-Analytics-SQL-Project-Instagram-User-Analytics/blob/main/Poster%20Instagram%20user%20analysis.jpg)
+
 ---
 
 ## Problem Statement
